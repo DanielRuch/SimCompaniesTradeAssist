@@ -7,11 +7,10 @@
 #### - API request limit logic
 ### SQLAlchemy
 #### - SQLite database
-#### - Robust insert logic
+#### - Robust insert and update logic
 ### Market Analysis
 # 
 ## Upcoming:
-### Update logic
 ### Production decomposition
 ### Production analysis
 ### Time Series analysis
