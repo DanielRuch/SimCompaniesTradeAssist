@@ -2,8 +2,8 @@
 ### Market Analysis for SimCompanies economic simulation
 
 ## Tools Used:
-### API Request
-#### - Web API call for market data
+### API Call
+#### - Web API call to endpoint
 #### - API request limit logic
 ### SQLAlchemy
 #### - SQLite database
