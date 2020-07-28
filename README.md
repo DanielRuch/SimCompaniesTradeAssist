@@ -5,7 +5,7 @@
 ### API Call
 #### - Web API call to endpoint
 #### - API request limit logic
-### SQLAlchemy
+### SQLAlchemy   
 #### - SQLite database
 #### - Robust insert and update logic
 ### Market Analysis
